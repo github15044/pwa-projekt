@@ -1,0 +1,2 @@
+Link na bazu: 
+http://localhost:8080/phpmyadmin/index.php?route=/database/structure&db=vijesti
